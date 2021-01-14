@@ -144,6 +144,10 @@ function sendTransaction(isAdding) {
   });
 }
 
+// function saveRecord(transaction) {
+//   console.log("saveRecord() called\n", transaction);
+// }
+
 document.querySelector("#add-btn").onclick = function() {
   sendTransaction(true);
 };
