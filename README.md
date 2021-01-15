@@ -1,5 +1,5 @@
 # Budget Tracker
-Web application that uses MongoDB, Mongoose, Node, and Express to track a user's budget, inclding the ability to log transactions while offline, then sync transactions when brought back online.
+Web application that utilizes MongoDB, Mongoose, Node, and Express to track a user's budget, and uses IndexedDB to log transactions while offline, then sync transactions when brought back online.
 
 ## Table of Contents
 - [Installation Steps](#installation)
@@ -17,7 +17,10 @@ Node must be installed, as well as the Express and Mongoose packages, Compressio
 [Deployed Application](#)
 
 ## Screenshots
+Budget Tracker Screenshot:
 ![Budget Tracker Screenshot](./public/assets/images/screenshot.png)
+Offline Function Demo:
+![Offline Function Demo](./public/assets/images/offline-demo.png)
 
 ## Licenses
 ### MIT License
