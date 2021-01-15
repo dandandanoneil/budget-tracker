@@ -17,10 +17,7 @@ Node must be installed, as well as the Express and Mongoose packages, Compressio
 [Deployed Application](#)
 
 ## Screenshots
-Budget Tracker Screenshot:
 ![Budget Tracker Screenshot](./public/assets/images/screenshot.png)
-Offline Function Demo:
-![Offline Function Demo](./public/assets/images/offline-demo.png)
 
 ## Licenses
 ### MIT License
